@@ -1,3 +1,2 @@
 # git-practice
-hennkou　
-conflict-remote上で変更
+stash練習
