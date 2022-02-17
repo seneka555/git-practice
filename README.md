@@ -1,2 +1,4 @@
 # git-practice
-stash練習
+stash練習(track済)
+
+
